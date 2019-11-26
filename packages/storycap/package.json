@@ -97,5 +97,6 @@
       "lib/.*"
     ],
     "testURL": "http://localhost"
-  }
+  },
+  "gitHead": "4462b762b61a36a3052e6c26d5b6a291932f17d6"
 }
