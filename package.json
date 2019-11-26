@@ -19,7 +19,7 @@
     "e2e": "bash e2e.sh",
     "regression": "reg-suit run",
     "deploy:ci": "lerna run clean && yarn build && lerna publish --yes from-package",
-    "deploy:manual": "lerna run clean && yarn build && lerna publish",
+    "deploy:manual": "lerna run clean && yarn build && lerna publish --registry https://verdaccio.photocreate.jp",
     "deploy:pages": "gh-pages -d dist-pages"
   },
   "repository": {
