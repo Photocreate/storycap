@@ -1,6 +1,6 @@
 {
   "name": "@photocreate/storycap",
-  "version": "2.3.2-alpha.0",
+  "version": "2.3.3-alpha.0",
   "description": "A Storybook addon, Save the screenshot image of your stories! via puppeteer.",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
